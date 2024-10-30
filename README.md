@@ -130,3 +130,11 @@ ui.run()`
 ## para ejecutar el codigo
 
 `python calcula.py`
+
+## SCREEN 1
+
+`https://drive.google.com/file/d/1wkS3HriITuZQT4Yg-sl_DpBjRNrJ3PcP/view?usp=sharing`
+
+## SCREEN 2
+
+`https://drive.google.com/file/d/1KSZXvbb0jUEPWYtxYvoCEyJRPmPx54Ch/view?usp=sharing`
