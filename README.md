@@ -133,12 +133,12 @@ ui.run()`
 
 ## SCREEN 1
 
-`https://drive.google.com/file/d/1wkS3HriITuZQT4Yg-sl_DpBjRNrJ3PcP/view?usp=sharing`
+![Screen 1](https://drive.google.com/uc?export=view&id=1wkS3HriITuZQT4Yg-sl_DpBjRNrJ3PcP)
 
 ## SCREEN 2
 
-`https://drive.google.com/file/d/1KSZXvbb0jUEPWYtxYvoCEyJRPmPx54Ch/view?usp=sharing`
+![Screen 2](https://drive.google.com/uc?export=view&id=1KSZXvbb0jUEPWYtxYvoCEyJRPmPx54Ch)
 
 ## SCREEN 3
 
-`https://drive.google.com/file/d/1E8FsNi0FA8cVx5uvYn2dJxXjRXFAIXQv/view?usp=sharing`
+![Screen 3](https://drive.google.com/uc?export=view&id=1E8FsNi0FA8cVx5uvYn2dJxXjRXFAIXQv)
