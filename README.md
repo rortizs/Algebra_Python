@@ -6,14 +6,14 @@ import numpy as np
 # Función para calcular la transpuesta de la matriz
 
 def calcular_transpuesta(matriz):
-    return matriz.T
+return matriz.T
 
 # Función principal de la aplicación
 
 `@ui.page('/')
 def main():
-    with ui.column():˚√
-        ui.label("Calculadora de operaciones matriciales")
+with ui.column():˚√
+ui.label("Calculadora de operaciones matriciales")
 
         # Selección de la operación a realizar (solo Transpuesta en este caso)
         # if operacion == 'Transpuesta':
@@ -123,3 +123,10 @@ def main():
 
 ui.run()`
 
+## instalacion de las dependencias
+
+`pip install nicegui numpy`
+
+## para ejecutar el codigo
+
+`python calcula.py`
